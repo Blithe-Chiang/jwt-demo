@@ -17,7 +17,7 @@
 
 #### 获得JWT实例
 
-![image-20210527215656261](README.assets/image-20210527215656261.png)
+![image-20210527215656261](https://gitee.com/Blithe-Chiang/pic-go-repo/raw/master/img/2021/05/27/image-20210527215656261.png)
 
 ### `/hello`接口: 
 
@@ -26,11 +26,11 @@
 
 #### 未携带JWT
 
-![image-20210527215835510](README.assets/image-20210527215835510.png)
+![image-20210527215835510](https://gitee.com/Blithe-Chiang/pic-go-repo/raw/master/img/2021/05/27/image-20210527215835510.png)
 
 #### 携带JWT
 
-![image-20210527220033572](README.assets/image-20210527220033572.png)
+![image-20210527220033572](https://gitee.com/Blithe-Chiang/pic-go-repo/raw/master/img/2021/05/27/image-20210527220033572.png)
 
 
 
